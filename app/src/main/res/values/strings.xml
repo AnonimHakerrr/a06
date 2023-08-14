@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">вікно</string>
+    <string name="hello">Привiт</string>
+    <string name="world">Всесвіт</string>
+    <string name="calendar">календар</string>
+    <string name="delete">видалити</string>
+    <string name="yes">так</string>
+    <string name="no">ні</string>
+    <string name="later">пізніше</string>
+    <string name="deleted">видалено</string>
+    <string name="save">зберегти</string>
+    <string name="exit">вийти</string>
+</resources>
